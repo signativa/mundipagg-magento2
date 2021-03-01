@@ -32,6 +32,12 @@
         }
     ],
     "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "git",
+            "url":  "git@github.com:signativa/ecommerce-module-core.git"
+        }
+    ],
     "scripts": {
         "test": "phpunit"
     },
