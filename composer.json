@@ -3,6 +3,7 @@
     "license": "MIT",
     "version": "2.9.4",
     "type": "magento2-module",
+    "minimum-stability": "dev",
     "description": "Magento 2 Module Mundipagg",
     "require": {
         "php": ">=5.6.0",
@@ -31,7 +32,6 @@
             "email":"embeddables@mundipagg.com"
         }
     ],
-    "minimum-stability": "dev",
     "repositories": [
         {
             "type": "git",
